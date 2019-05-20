@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple jQuery plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Robert Costello",
+        "url": "https://robertcostello.xyz"
+    },
+    "maintainers": [
+        {
+            "name": "Robert Costello",
+            "email": "robertcostello81@gmail.com",
+            "url": "http://robertcostello.xyz"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Robert-Costello/jquery.linkIt"
+        }
+    ],
+    "homepage": "https://github.com/Robert-Costello/jquery.linkIt",
+    "docs": "https://github.com/Robert-Costello/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}

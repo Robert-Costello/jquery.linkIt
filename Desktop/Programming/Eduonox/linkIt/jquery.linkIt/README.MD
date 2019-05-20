@@ -4,21 +4,24 @@
 
 ## Version  
            
-0.1.0
+0.2.0
 
----
+
 ## Usage
-
----
+    $('span').linkIt({
+					href: 'http://facebook.com',
+					text: 'Dis',
+					target: '_blank'
+				});
 
 
 
 ## Vendors 
 jQuery - http://jquery.com
 
----
+
 
 ## License
 MIT License
 
----
+
